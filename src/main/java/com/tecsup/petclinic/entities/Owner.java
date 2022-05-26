@@ -15,6 +15,7 @@ public class Owner {
 	private String address;
 	private String city;
 	private String telephone;
+	
 	public Owner() {
 		
 	}
