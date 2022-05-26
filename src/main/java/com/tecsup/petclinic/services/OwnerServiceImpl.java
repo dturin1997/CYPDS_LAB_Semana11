@@ -8,7 +8,6 @@ import com.tecsup.petclinic.repositories.OwnerRepository;
 @Service
 public class OwnerServiceImpl implements OwnerService{
 	
-
 	@Autowired
 	OwnerRepository ownerRepository;
 	
