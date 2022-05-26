@@ -22,7 +22,6 @@ public class OwnerServiceTest {
 
 	@Test
 	public void testCreateOwner() {
-		//Create solucionado
 		String OWNER_FIRSTNAME = "Luis";
 		String OWNER_LASTNAME = "Martinez";
 		String OWNER_ADDRESS = "Av. Girasoles 345";
